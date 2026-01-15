@@ -1,24 +1,8 @@
 # 👋 Luis Ángel Martínez Vargas  
 ### Software Development, Management & Engineering
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Pelomtz659&style=for-the-badge&color=blue" alt="profile views"/>
-</p>
-
 I am a software engineer with experience in **Front-end, Back-end, and enterprise systems**.  
 I have worked on real-world projects for **companies, government institutions, and commercial brands**, building management systems, web platforms, and complete digital solutions.
-
----
-
-## 📊 GitHub Statistics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Pelomtz659&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pelomtz659&layout=compact&theme=tokyonight" />
-</p>
 
 ---
 
@@ -53,21 +37,6 @@ I have worked on real-world projects for **companies, government institutions, a
 | **Norteño Chilis** | Official website for a Mexican restaurant chain | HTML, CSS, JavaScript |
 | **Superlists** | Data and list management system | Python |
 | **The Hoodie House** | Brand platform and product catalog | React, UI/UX |
-
----
-
-## 🎓 Experience & Certifications
-
-**Software Developer – Multiple Organizations**  
-Developed and maintained web platforms, internal systems, and digital workflows for private companies and public institutions, including:
-- Role-based systems (admin, users, auditors)
-- Document and file processing
-- Notifications, approvals, and process automation
-- Dashboards and reporting systems
-
-**University Degree**  
-Bachelor’s Degree in Software Development, Management & Engineering  
-Currently pursuing postgraduate studies in Technology and Software Management
 
 ---
 
